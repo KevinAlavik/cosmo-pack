@@ -1,0 +1,5 @@
+class Test {
+    public Test fn construct() {
+        puts("test package")
+    }
+}
