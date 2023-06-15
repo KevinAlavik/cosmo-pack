@@ -1,0 +1,10 @@
+{
+  "packages": [
+    {
+      "name": "test",
+      "author": "puffer",
+      "files": [
+        "https://puffer.is-a.dev/cosmo-pack/packages/test.cos"
+      ]
+   ]
+}
